@@ -2,4 +2,18 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="horoscope_color_aries">#</color>
+    <color name="horoscope_color_taurus">#</color>
+    <color name="horoscope_color_gemini">#</color>
+    <color name="horoscope_color_cancer">#</color>
+    <color name="horoscope_color_leo">#</color>
+    <color name="horoscope_color_virgo">#</color>
+    <color name="horoscope_color_libra">#</color>
+    <color name="horoscope_color_scorpio">#</color>
+    <color name="horoscope_color_sagittarius">#</color>
+    <color name="horoscope_color_capricorn">#</color>
+    <color name="horoscope_color_aquarius">#</color>
+    <color name="horoscope_color_pisces">#</color>
+
 </resources>
